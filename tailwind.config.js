@@ -8,11 +8,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        customBlue: '#1E40AF',
-        customGreen: '#10B981',
-        customYellow: '#F59E0B',
+        ReddishOrange: "#F54C1E",
+        MidNight: "#031333",
+        AquaHaze: "#F4F3F3",
+        MountainMist: "#949494",
+        BattleShip: "#818181"
       },
       fontFamily: {
+        NunitoSans: ['Nunito Sans', 'sans-serif'],
         Lato: ['Lato', 'sans-serif'],
         Poppins: ['Poppins', 'sans-serif'],
       },
